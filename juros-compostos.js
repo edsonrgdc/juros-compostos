@@ -8,6 +8,3 @@ function jurosCompostos() {
     return c * (1 + i / 100) ** n
 }
 console.log('resposta', jurosCompostos())
-
-s
-
